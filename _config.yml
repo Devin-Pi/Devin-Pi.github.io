@@ -83,7 +83,7 @@ author:
   name             : "Rendong Pi (Devin)"
   avatar           : "rdpi_profile.png"
   bio              : "A junior ENTJ researcher."
-  location         : "Hong Kong"
+  location         : "https://maps.app.goo.gl/Qk9XcdHFK4BE7rE46"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dpj67PAAAAAJ&hl=zh-CN"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # ""
   vine             :
   weibo            :
   xing             :
