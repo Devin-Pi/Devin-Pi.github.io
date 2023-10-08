@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a first year Ph.D. student from [Mechanical Enginnering Department](https://www.polyu.edu.hk/me/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes audio-visual localization, physics-informed neural network, object detection, segmentatio and tracking.
+
+I am very fortunate to be advised by [Dr. Xiang Yu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/yu-xiang-dr/) and [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/) from [Mechanical Engineering Department](https://www.polyu.edu.hk/me//), The Hong Kong Polytechnic University.
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:devin.pi@connect.polyu.hk) / [Github](https://github.com/Devin-Pi) / [Blog](http://rdpi.myds.me:90/)
+————————————————
+版权声明：本文为CSDN博主「QiuDi666」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
 
 A data-driven personal website
 ======
