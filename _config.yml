@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Rendong Pi"
+description              : "A first year PhD student in Hong Kong Polytechnic University. My research interests include audio-visual localization, physics-informed neural network etc."
 repository               : "/Devin-Pi.github.io"
 google_scholar_stats_use_cdn : true
 
