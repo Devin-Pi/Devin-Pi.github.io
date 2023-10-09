@@ -24,13 +24,13 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 author:
   name             : "Rendong Pi (皮任东)"
   avatar           : "images/rdpi_profile.png"
-  bio              : "Polyu"
+  bio              : "A junior ENTJ Ph.D. student at The Hong Kong Polytechnic University, focusing on audio-visual localization, physics-informed neural network etc."
   location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dpj67PAAAAAJ"
   email            : "devin.pi@connect.polyu.hk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Rendong-Pi # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Devin-Pi"
+  github           : "Devin-Pi "
   google_plus      :
   keybase          :
   instagram        :
