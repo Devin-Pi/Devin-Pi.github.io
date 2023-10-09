@@ -2,7 +2,6 @@ I work at [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) 
 
 I am pursing the Ph.D. degree at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) <img src='./images/tiktok.png' style='width: 6em;'>. I am very fortune to be advisd by [Dr. Xiang Yu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/yu-xiang-dr/) and [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/).
 
-
 My research interest includes audio-visual localization, physics-informed neural network, semantic segmentation, object detection and tracking. I have published 7 papers at the top international conferences and journals with total <a href='https://scholar.google.com/citations?user=dpj67PAAAAAJ&hl'>google scholar citations <a href='https://scholar.google.com/citations?user=dpj67PAAAAAJ&hl'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FDevin-Pi%2FDevin-Pi.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com).
