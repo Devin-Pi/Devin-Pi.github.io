@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Lorem ipsum"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "https://github.com/Devin-Pi/Devin-Pi.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "/Devin-Pi.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  dpj67PAAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
