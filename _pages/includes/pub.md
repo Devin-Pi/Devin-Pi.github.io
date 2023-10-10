@@ -2,6 +2,20 @@
 # 📝 Publications 
 ## 🚗 Object Detection & Tracking
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors (2023)</div><img src='images/paper_4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Object Tracking Based on the Fusion of Roadside LiDAR and Camera Data](https://ieeexplore.ieee.org/document/9868055) \\
+Kwai-Wa Tse, **Rendong Pi**, Yuxiang Sun, Chih-Yung Wen et al.<strong><span class='show_paper_citations' data='dpj67PAAAAAJ:Y0pCki6q_DkC'></span></strong>
+
+  - This work proposed a system based on unmanned aerial vechicle can successfully detect and classify various types of cracks.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM (2022)</div><img src='images/paper_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
