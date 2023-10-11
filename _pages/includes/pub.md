@@ -38,6 +38,16 @@ Xiuguang Song, **Rendong Pi**, Chen Lyu, Jianqing Wu, et al. <strong><span class
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBM (2021)</div><img src='images/paper_6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[The stability and durability of silt-based foamed concrete: A new type of road engineering material](https://www.sciencedirect.com/science/article/pii/S0950061821024296) \\
+Jianqing Wu, Chen Lyu, **Rendong Pi**, Hongbo Zhang et al. <strong><span class='show_paper_citations' data='dpj67PAAAAAJ:u5HHmVD_uO8C'></span></strong>
+- This paper implements four types of tests under three designed wet densities, including drying-wetting cycles test, freeze–thaw cycle test, water stability test, and dry shrinkage test, to analyze the strength change law of silt-based foamed concrete after a specified age or a number of cycles.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJERPH (2021)</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
