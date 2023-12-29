@@ -42,12 +42,6 @@ Xiuguang Song, **Rendong Pi**, Chen Lyu, Jianqing Wu, et al. <strong><span class
 <div class='paper-box-text' markdown="1">
 
 
-[The stability and durability of silt-based foamed concrete: A new type of road engineering material](https://www.sciencedirect.com/science/article/pii/S0950061821024296) \\
-Jianqing Wu, Chen Lyu, **Rendong Pi**, Hongbo Zhang et al. <strong><span class='show_paper_citations' data='dpj67PAAAAAJ:u5HHmVD_uO8C'></span></strong>
-- This paper implements four types of tests under three designed wet densities, including drying-wetting cycles test, freeze–thaw cycle test, water stability test, and dry shrinkage test, to analyze the strength change law of silt-based foamed concrete after a specified age or a number of cycles.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors (2020)</div><img src='images/paper_3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,5 +50,12 @@ Jianqing Wu, Chen Lyu, **Rendong Pi**, Hongbo Zhang et al. <strong><span class='
 [Vehicle Detection Under Adverse Weather from Roadside LiDAR Data](https://www.mdpi.com/1424-8220/20/12/3433) \\
 Jianqing Wu, Hao Xu, Yuan Tian, **Rendong Pi**. <strong><span class='show_paper_citations' data='dpj67PAAAAAJ:9yKSN-GCB0IC'></span></strong>
 - This paper proposed a data processing method to achieve background filtering and object cluistering for roadsise LiDAR data under adverse weather (snow and wind).
+</div>
+</div>
+
+## 🏗️ Building Materials
+[The stability and durability of silt-based foamed concrete: A new type of road engineering material](https://www.sciencedirect.com/science/article/pii/S0950061821024296) \\
+Jianqing Wu, Chen Lyu, **Rendong Pi**, Hongbo Zhang et al. <strong><span class='show_paper_citations' data='dpj67PAAAAAJ:u5HHmVD_uO8C'></span></strong>
+- This paper implements four types of tests under three designed wet densities, including drying-wetting cycles test, freeze–thaw cycle test, water stability test, and dry shrinkage test, to analyze the strength change law of silt-based foamed concrete after a specified age or a number of cycles.
 </div>
 </div>
