@@ -48,16 +48,6 @@ Jianqing Wu, Chen Lyu, **Rendong Pi**, Hongbo Zhang et al. <strong><span class='
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJERPH (2021)</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[Determinants and Prediction of Injury Severities in Multi-Vehicle-Involved Crashes](https://www.mdpi.com/1660-4601/18/10/5271) \\
-Xiuguang Song, **Rendong Pi**, Yu Zhang, Jianqing Wu. <strong><span class='show_paper_citations' data='dpj67PAAAAAJ:qjMakFHDy7sC'></span></strong>
-- Two kinds of models: Random Parameters Logit model (RPL), with heterogeneities in the means and variances, and Random Forest (RF) were employed to identify the critical contributing factors and to predict the possibility of MV injury-severity in this work.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors (2020)</div><img src='images/paper_3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
