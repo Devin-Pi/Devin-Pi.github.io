@@ -211,8 +211,10 @@ pre>code {
 
 .site-nav {
     display: flex;
-    justify-content: center; /* This centers the links horizontally */
-    align-items: center;      /* Aligns them vertically */
+    justify-content: center;
+    /* This centers the links horizontally */
+    align-items: center;
+    /* Aligns them vertically */
     line-height: 56px;
     z-index: 3;
 }
@@ -376,19 +378,29 @@ pre>code {
 }
 
 .custom-button {
-    font-size: 20px; /* Larger font size */
-    background-color: transparent; /* Transparent background */
-    border: none; /* Remove border */
-    cursor: pointer; /* Pointer cursor on hover */
-    color: #0077B5; /* Text color */
-    padding: 5px 5px; /* Add padding */
-    outline: none; /* Remove focus outline */
+    font-size: 20px;
+    /* Larger font size */
+    background-color: transparent;
+    /* Transparent background */
+    border: none;
+    /* Remove border */
+    cursor: pointer;
+    /* Pointer cursor on hover */
+    color: #0077B5;
+    /* Text color */
+    padding: 5px 5px;
+    /* Add padding */
+    outline: none;
+    /* Remove focus outline */
 }
 
 .custom-button:hover {
-    color: #0056b3; /* Darker color on hover */
-    text-decoration: none; /* Remove underline on hover */
-    transition: color 0.3s ease; /* Smooth hover effect */
+    color: #0056b3;
+    /* Darker color on hover */
+    text-decoration: none;
+    /* Remove underline on hover */
+    transition: color 0.3s ease;
+    /* Smooth hover effect */
 }
 
 
@@ -704,7 +716,7 @@ pre>code {
 
 .shallow-bg {
     /* background-image: url("images/background/background1.JPG"); */
-    background-image: url("images/background/background_hkust_2.jpg");
+    background-image: url("images/background/background_polyu.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center
@@ -1636,13 +1648,17 @@ div.paginate-container li:nth-last-child(2) a:after {
     border-color: #9b3022
 } */
 
-.pub-left > .intro-img {
-    width: 280px; /* Set your desired width */
-    height: 130px; /* Set your desired height */
+.pub-left>.intro-img {
+    width: 280px;
+    /* Set your desired width */
+    height: 130px;
+    /* Set your desired height */
     border-style: solid;
     border-color: #9b3022;
-    object-fit: contain; /* Ensures the image fills the container while maintaining aspect ratio */
-    object-position: center; /* Centers the image inside the container */
+    object-fit: contain;
+    /* Ensures the image fills the container while maintaining aspect ratio */
+    object-position: center;
+    /* Centers the image inside the container */
 }
 
 
@@ -1970,13 +1986,15 @@ div.paginate-container li:nth-last-child(2) a:after {
 .card-container {
     display: flex;
     justify-content: center;
-    gap: 4px 2px;  /* row gap 24px, column gap 32px */
+    gap: 4px 2px;
+    /* row gap 24px, column gap 32px */
     flex-wrap: wrap;
-    width: 940px; /* 控制最大宽度，2列布局 */
+    width: 940px;
+    /* 控制最大宽度，2列布局 */
     margin: 0 auto;
-  }
-  
-  .github-card {
+}
+
+.github-card {
     border: 1.5px solid #e5e7eb;
     border-radius: 8px;
     padding: 16px;
@@ -1986,24 +2004,24 @@ div.paginate-container li:nth-last-child(2) a:after {
     font-family: system-ui, sans-serif;
     font-size: 14px;
     color: #333;
-  }
-  
-  .github-card a {
+}
+
+.github-card a {
     color: #1a1a1a;
     text-decoration: none;
-  }
-  
-  .github-card a:hover {
+}
+
+.github-card a:hover {
     color: #2563eb;
     text-decoration: underline;
-  }
-  
-  .github-card .repo-link {
+}
+
+.github-card .repo-link {
     font-weight: 500;
     font-size: 14px;
-  }
-  
-  .github-card .label {
+}
+
+.github-card .label {
     display: inline-block;
     margin-left: 8px;
     padding: 2px 8px;
@@ -2011,44 +2029,44 @@ div.paginate-container li:nth-last-child(2) a:after {
     border-radius: 9999px;
     font-size: 12px;
     color: #6b7280;
-  }
-  
-  .github-card .description {
+}
+
+.github-card .description {
     margin-top: 8px;
     font-size: 11px;
     color: #6b7280;
-  }
-  
-  .github-card .meta {
+}
+
+.github-card .meta {
     margin-top: 12px;
     display: flex;
     align-items: center;
     font-size: 13px;
     color: #6b7280;
-  }
-  
-  .github-card .dot {
+}
+
+.github-card .dot {
     display: inline-block;
     width: 10px;
     height: 10px;
     background-color: #2563eb;
     border-radius: 50%;
     margin-right: 6px;
-  }
-  
-  .github-card .meta a {
+}
+
+.github-card .meta a {
     display: inline-flex;
     align-items: center;
     margin-left: 16px;
     color: #6b7280;
-  }
-  
-  .github-card .meta a:hover {
+}
+
+.github-card .meta a:hover {
     color: #2563eb;
-  }
-  
-  .github-card svg {
+}
+
+.github-card svg {
     width: 16px;
     height: 16px;
     margin-right: 4px;
-  }
+}
